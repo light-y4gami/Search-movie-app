@@ -1,2 +1,2 @@
 # Search-movie-app
-En este es un proyecto desarrollado en Html, Css Y JavaScript. Es un buen proyecto al estilo de TMDB para buscar películas, haciendo uso de la API de TMDB. Es un proyecto con fines didácticos créditos a: 100 Projects In 100 Days. Espero que se diviertan tanto como yo haciéndolo. 🤞🤖
+Este es un proyecto desarrollado en Html, Css Y JavaScript. Es un buen proyecto al estilo de TMDB para buscar películas, haciendo uso de la API de TMDB. Es un proyecto con fines didácticos créditos a: 100 Projects In 100 Days. Espero que se diviertan tanto como yo haciéndolo. 🤞🤖
